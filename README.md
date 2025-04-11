@@ -24,7 +24,7 @@ A simple yet engaging React-based timer challenge app where users must stop the 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/timer-challenge-app.git
+git clone https://github.com/BekaluEshete/timer-challenge-app.git
 cd timer-game
 npm install
 npm start
